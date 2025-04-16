@@ -1,0 +1,56 @@
+.is-invalid .form-control,
+.is-invalid .form-select {
+  border: 1px solid #fd625e;
+}
+
+.invalid-feedback {
+  display: block;
+}
+
+.swal2-toast .swal2-title {
+  font-size: 16px !important ;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.dt-rows-page select {
+  max-width: 100px !important;
+}
+
+.dt-footer label {
+  font-weight: normal !important;
+}
+
+.form-control,
+.form-select {
+  background-color: transparent;
+}
+
+.dt-paginate i {
+  font-size: 16px;
+}
+.dt label {
+  margin-bottom: 0px;
+  font-weight: normal;
+}
+
+.btn-outline-light.active,
+.btn-outline-light.show,
+.btn-outline-light:active,
+.btn-outline-light:focus,
+.btn-outline-light:hover {
+  border-color: #e9e9ef !important;
+}
+
+btn.disabled,
+.btn:disabled,
+fieldset:disabled .btn {
+  color: #212529;
+  opacity: 0.5;
+}
+
+.form-group label {
+  margin-bottom: 0.5rem;
+}
